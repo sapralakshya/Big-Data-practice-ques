@@ -1,0 +1,3 @@
+Select * from Customers 
+where 
+Cust_age > 25 and purchase_quatity >= 1;
